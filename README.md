@@ -8,7 +8,7 @@ My work combines data analysis, business reasoning, deterministic validation, an
 
 ## Featured Project
 
-### CommerceLens
+### [CommerceLens](https://github.com/daniel-j-lin/commerce-lens)
 
 **Evidence-Governed Analytics Agent Skill**
 
@@ -16,7 +16,7 @@ CommerceLens is an evidence-first analytics system designed to separate AI inter
 
 Instead of treating a generated answer or executed query as sufficient, CommerceLens requires analytical claims to pass through governed metric definitions, validation, evidence traceability, and claim admissibility checks.
 
-Public v0.1 currently supports:
+Public v0.1 supports:
 
 - CSV and XLSX inputs
 - Revenue
@@ -28,7 +28,7 @@ Public v0.1 currently supports:
 - Governed descriptive claims
 - Explicit refusal when available evidence does not support stronger conclusions
 
-Public v0.1 is preparing for release.
+**Latest release:** [CommerceLens v0.1.0](https://github.com/daniel-j-lin/commerce-lens/releases/tag/v0.1.0)
 
 ## Other Work
 
