@@ -1,52 +1,52 @@
 # Jui-Hsin (Daniel) Lin
 
-Data & AI Analytics | Python · SQL · Decision Intelligence
+Data Analytics · Business Analytics · AI-assisted Analytics
 
-I focus on building reliable, evidence-driven analytics systems that help turn data into business decisions.
+University of Toronto graduate
 
-My work combines data analysis, business reasoning, deterministic validation, and AI-assisted analytical workflows.
+I focus on using structured data to answer business questions clearly and
+reliably. My current public work combines analytics, business reasoning, and
+evidence-governed AI-assisted workflows.
 
 ## Featured Project
 
 ### [CommerceLens](https://github.com/daniel-j-lin/commerce-lens)
 
-**Evidence-Governed Analytics Agent Skill**
+**Evidence-governed analytics for AI agents**
 
-CommerceLens is an evidence-first analytics system designed to separate AI interpretation from deterministic analytical authority.
+CommerceLens is a local, open-source Codex Skill/plugin workflow for bounded
+commerce analytics over CSV and XLSX files. It is designed to keep computation,
+validated evidence, and supported analytical claims separate, so generated
+answers do not become authority without deterministic checks.
 
-Instead of treating a generated answer or executed query as sufficient, CommerceLens requires analytical claims to pass through governed metric definitions, validation, evidence traceability, and claim admissibility checks.
+Current public scope includes Revenue, Orders, AOV, and absolute Revenue Change.
+CommerceLens supports descriptive positive material claims, deterministic
+validation, evidence traceability, governed refusal of unsupported diagnostic
+conclusions, and explicit source-to-canonical mapping confirmation when source
+headers are not canonical.
 
-Public v0.1 supports:
+**Latest public release:** [CommerceLens v0.1.3](https://github.com/daniel-j-lin/commerce-lens/releases/tag/v0.1.3)
 
-- CSV and XLSX inputs
-- Revenue
-- Orders
-- Average Order Value (AOV)
-- Revenue Change
-- Deterministic validation
-- Evidence traceability
-- Governed descriptive claims
-- Explicit refusal when available evidence does not support stronger conclusions
-
-**Latest release:** [CommerceLens v0.1.0](https://github.com/daniel-j-lin/commerce-lens/releases/tag/v0.1.0)
-
-## Other Work
+## Selected Analytics Work
 
 ### Product Compatibility Analytics
 
-Data analytics work focused on product compatibility, coverage analysis, specification distributions, and decision support using structured product data.
+Analytics work focused on product compatibility, coverage analysis,
+specification distributions, and structured decision support using product data.
 
 ### ESG Decision Support
 
-A structured analytics project using scoring frameworks and data analysis to support sustainability-related decision-making.
+Analytics work using scoring frameworks and structured data analysis to support
+sustainability-related decision-making.
 
-## Tools
+## Tools And Methods
 
-`Python` · `SQL` · `DuckDB` · `pandas` · `Pytest` · `Tableau` · `Git` · `GitHub`
+Python · SQL · DuckDB · Pytest · Git · GitHub
 
-## Areas of Interest
+## Areas Of Interest
 
-Data Analytics · Business Analytics · AI-assisted Analytics · Decision Intelligence · Analytics Reliability · Data Quality
+Data Analytics · Business Analytics · AI-assisted Analytics · Decision
+Intelligence · Analytics Reliability · Data Quality
 
 ## Connect
 
