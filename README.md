@@ -25,7 +25,7 @@ validation, evidence traceability, governed refusal of unsupported diagnostic
 conclusions, and explicit source-to-canonical mapping confirmation when source
 headers are not canonical.
 
-**Latest public release:** [CommerceLens v0.1.3](https://github.com/daniel-j-lin/commerce-lens/releases/tag/v0.1.3)
+**Latest public release:** [CommerceLens v0.3.1(https://github.com/daniel-j-lin/commerce-lens/releases/tag/v0.3.1)
 
 ## Selected Analytics Work
 
